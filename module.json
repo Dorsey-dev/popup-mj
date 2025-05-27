@@ -1,0 +1,19 @@
+{
+  "name": "popup-mj",
+  "title": "Popup MJ vers joueur",
+  "description": "Permet au MJ d’envoyer une popup personnalisée à un joueur avec réponse accept/refus.",
+  "version": "1.0.0",
+  "author": "Dorsey",
+  "minimumCoreVersion": "12",
+  "compatibleCoreVersion": "12",
+  "scripts": ["scripts/popup-listener.js"],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": [],
+  "socket": true,
+  "manifest": "",
+  "download": "",
+  "url": ""
+}
