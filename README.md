@@ -30,8 +30,11 @@ Dans Foundry VTT, installez-le via l’URL du module.json en utilisant Install M
 📂 Structure
 
 popup-mj/
+
 ├── module.json
+
 └── scripts/
+
     └── popup-listener.js
     
     
